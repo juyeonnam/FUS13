@@ -1,3 +1,4 @@
 # FUS13
 FAST CAMPUS UX/UI DESIGN SCHOOL 13TH 개발 학습용 저장소
 남주연
+## CLI 명령어
